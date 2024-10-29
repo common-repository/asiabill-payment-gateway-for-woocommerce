@@ -1,0 +1,12 @@
+.asiabill_gateway_logo{
+    max-height: 24px;
+    margin-left: 4px;
+}
+
+.asiabill_more{
+    font-weight: lighter;color: #888888;
+}
+
+#asiabill-card .hide{
+    display: none !important;
+}
